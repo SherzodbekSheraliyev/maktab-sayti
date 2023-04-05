@@ -1,0 +1,32 @@
+.p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    text-decoration-line: overline;
+    text-decoration-line:line-through;
+    text-decoration-line: underline;
+    text-shadow: 2px 2px red;
+
+
+    
+} 
+img {
+
+    width: 300px;
+    
+}
+body {
+    background-color:lightgrey ;
+    color:yellow;
+    background-image: url(1.jpg);
+}
+.h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    text-shadow: 2px 2px  blue;
+}
+.h4 {
+     flex: content;
+     color: blue;
+     
+}
